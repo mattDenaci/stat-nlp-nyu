@@ -1,6 +1,6 @@
 ---
 name:
-   first: Slav
-   last: Petrov
-email: slav@petrovi.de
-leaderboard: SlavPetrov
+   first: Matt
+   last: Denaci
+email: mdd315@nyu.edu
+leaderboard: MattDenaci
