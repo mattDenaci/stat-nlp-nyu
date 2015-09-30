@@ -1,55 +1,3 @@
-Using base path: .
-Using model: maxent
-Testing on: test
-[LBFGSMinimizer.minimize] Iteration 0 ended with value 31688.044908
-[LBFGSMinimizer.minimize] Iteration 1 ended with value 24646.850305
-[LBFGSMinimizer.minimize] Iteration 2 ended with value 19170.781100
-[LBFGSMinimizer.minimize] Iteration 3 ended with value 16670.612015
-[LBFGSMinimizer.minimize] Iteration 4 ended with value 15220.363459
-[LBFGSMinimizer.minimize] Iteration 5 ended with value 13234.728558
-[LBFGSMinimizer.minimize] Iteration 6 ended with value 11253.643465
-[LBFGSMinimizer.minimize] Iteration 7 ended with value 9619.669247
-[LBFGSMinimizer.minimize] Iteration 8 ended with value 9390.494000
-[LBFGSMinimizer.minimize] Iteration 9 ended with value 8307.374064
-[LBFGSMinimizer.minimize] Iteration 10 ended with value 8069.222265
-[LBFGSMinimizer.minimize] Iteration 11 ended with value 7681.690115
-[LBFGSMinimizer.minimize] Iteration 12 ended with value 7264.558523
-[LBFGSMinimizer.minimize] Iteration 13 ended with value 6787.935685
-[LBFGSMinimizer.minimize] Iteration 14 ended with value 6549.450834
-[LBFGSMinimizer.minimize] Iteration 15 ended with value 6374.898957
-[LBFGSMinimizer.minimize] Iteration 16 ended with value 6209.144136
-[LBFGSMinimizer.minimize] Iteration 17 ended with value 6005.842849
-[LBFGSMinimizer.minimize] Iteration 18 ended with value 5803.253716
-[LBFGSMinimizer.minimize] Iteration 19 ended with value 5748.810739
-[LBFGSMinimizer.minimize] Iteration 20 ended with value 5677.852729
-[LBFGSMinimizer.minimize] Iteration 21 ended with value 5646.610849
-[LBFGSMinimizer.minimize] Iteration 22 ended with value 5594.870166
-[LBFGSMinimizer.minimize] Iteration 23 ended with value 5548.236309
-[LBFGSMinimizer.minimize] Iteration 24 ended with value 5524.989573
-[LBFGSMinimizer.minimize] Iteration 25 ended with value 5482.899427
-[LBFGSMinimizer.minimize] Iteration 26 ended with value 5453.269255
-[LBFGSMinimizer.minimize] Iteration 27 ended with value 5424.565696
-[LBFGSMinimizer.minimize] Iteration 28 ended with value 5414.450721
-[LBFGSMinimizer.minimize] Iteration 29 ended with value 5396.952558
-[LBFGSMinimizer.minimize] Iteration 30 ended with value 5384.030292
-[LBFGSMinimizer.minimize] Iteration 31 ended with value 5375.848139
-[LBFGSMinimizer.minimize] Iteration 32 ended with value 5347.428835
-[LBFGSMinimizer.minimize] Iteration 33 ended with value 5339.346235
-[LBFGSMinimizer.minimize] Iteration 34 ended with value 5327.012955
-[LBFGSMinimizer.minimize] Iteration 35 ended with value 5311.559790
-[LBFGSMinimizer.minimize] Iteration 36 ended with value 5305.314754
-[LBFGSMinimizer.minimize] Iteration 37 ended with value 5291.911233
-[LBFGSMinimizer.minimize] Iteration 38 ended with value 5286.493591
-[LBFGSMinimizer.minimize] Iteration 39 ended with value 5281.659623
-[LBFGSMinimizer.minimize] Iteration 40 ended with value 5280.153262
-[LBFGSMinimizer.minimize] Iteration 41 ended with value 5278.970328
-[LBFGSMinimizer.minimize] Iteration 42 ended with value 5275.610698
-[LBFGSMinimizer.minimize] Iteration 43 ended with value 5274.871371
-[LBFGSMinimizer.minimize] Iteration 44 ended with value 5274.218956
-[LBFGSMinimizer.minimize] Iteration 45 ended with value 5273.258226
-[LBFGSMinimizer.minimize] Iteration 46 ended with value 5272.465783
-[LBFGSMinimizer.minimize] Iteration 47 ended with value 5271.531841
-[LBFGSMinimizer.minimize] Iteration 48 ended with value 5271.016404
 Example:	A-200 Shampoo Concentrate guess=drug gold= confidence=0.9949103037228398
 Example:	Acet-2 guess=drug gold= confidence=0.9882571089410725
 Example:	Actifed Cold & Sinus Caplets 26 guess=drug gold= confidence=0.9995461323631774
@@ -2912,4 +2860,3 @@ Example:	Wynns International Inc. guess=company gold= confidence=0.9999958782433
 Example:	YPF guess=drug gold= confidence=0.4214692044202387
 Example:	iStar Financial Inc. guess=company gold= confidence=0.9999974826888826
 Example:	lehman Brothers Holdings Capital. guess=company gold= confidence=0.9835054188535014
-Accuracy: 0.0
